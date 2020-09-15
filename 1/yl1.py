@@ -1,1 +1,1 @@
-print("Tere, maailma!")
+print("idiot")
